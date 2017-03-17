@@ -2,4 +2,5 @@ server:
   port: 0
 nombre: Edwin
 apellidoP: Estrada
-ApellidoM: Garcia	
+ApellidoM: Garcia
+edad: 27	
