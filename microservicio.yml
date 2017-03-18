@@ -3,4 +3,8 @@ server:
 nombre: Edwin
 apellidoP: Estrada
 ApellidoM: Garcia
-edad: 27	
+edad: 27
+eureka:
+	client:
+		serverUrl:
+			defaultZone: http://localhost:9000/eureka/	
